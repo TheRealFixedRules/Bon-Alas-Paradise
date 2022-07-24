@@ -4,19 +4,19 @@
 
 We have
 
-Giveaways
+-  Giveaways
 
-Self roles
+-  Self roles
 
-Levels
+-  Levels
 
-Counting
+-  Counting
 
-Alot of bots
+-  Alot of bots
 
-Art
+-  Art
 
-Our own enocomy!
+- Our own enocomy!
 
 
 [Our Server](https://discord.gg/XAchpC4vDa)
