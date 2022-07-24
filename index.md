@@ -1,6 +1,6 @@
 ## Welcome To Bon Alas Paradise!
 
-# We have a good community talking about a cat moderator,
+# Our goal is to raise a good community, talking about a wonderful cat moderator!
 
 
 
