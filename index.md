@@ -2,6 +2,21 @@
 
 # Our goal is to raise a good community, talking about a wonderful cat moderator!
 
-<a href="#" class="button icon search">Search</a>
+We have
+
+Giveaways
+
+Self roles
+
+Levels
+
+Counting
+
+Alot of bots
+
+Art
+
+Our own enocomy!
+
 
 [Our Server](https://discord.gg/XAchpC4vDa)
